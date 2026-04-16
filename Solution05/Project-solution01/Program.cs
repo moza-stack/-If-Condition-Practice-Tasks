@@ -9,7 +9,10 @@ namespace Project_solution01
     internal class Program
     {
         static void Main(string[] args)
+
         {
+            //#region Practice Tasks
+
 
             //Task 1 – Day Name Printer
             //    Console.WriteLine("Enter a number from 1 to 7:");
@@ -246,6 +249,140 @@ namespace Project_solution01
             //}
 
 
+            //Task 8 – Prime Number Checker in a Range
+
+            //Console.Write("Enter start of range ");
+            //int start = Convert.ToInt32(Console.ReadLine());
+
+            //Console.Write("Enter end of range ");
+            //int end = Convert.ToInt32(Console.ReadLine());
+
+            //bool foundPrime = false;
+
+            //// Loop through the range
+            //for (int num = start; num <= end; num++)
+            //{
+            //    bool isPrime = true;
+
+            //    // A number must be greater than 1 to be prime
+            //    if (num <= 1)
+            //    {
+            //        isPrime = false;
+            //    }
+            //    else
+            //    {
+            //        // Nested loop to check divisibility
+            //        for (int i = 2; i <= num - 1; i++)
+            //        {
+            //            if (num % i == 0)
+            //            {
+            //                isPrime = false;
+            //                break;
+            //            }
+            //        }
+            //    }
+
+            //    // Print prime numbers
+            //    if (isPrime)
+            //    {
+            //        Console.WriteLine(num);
+            //        foundPrime = true;
+            //    }
+            //}
+
+            //// If no prime numbers found
+            //if (!foundPrime)
+            //{
+            //    Console.WriteLine("No prime numbers found");
+            //}
+
+
+            //Task 9 – Student Grade Report
+
+            //Console.Write("Enter number of students");
+            //int N = Convert.ToInt32(Console.ReadLine());
+
+            //int score;
+            //int highest = -1;
+            //int lowest = 101;
+
+
+            //int excellentCount = 0;
+            //int veryGoodCount = 0;
+            //int goodCount = 0;
+            //int passCount = 0;
+            //int failCount = 0;
+
+
+            //for (int i = 1; i <= N; i++)
+            //{
+            //    Console.Write("Enter score for student " + i + ": ");
+            //    score = Convert.ToInt32(Console.ReadLine());
+
+
+            //    if (score > highest)
+            //        highest = score;
+
+            //    if (score < lowest)
+            //        lowest = score;
+
+            //    int gradeKey = score / 10;
+
+            //    switch (gradeKey)
+            //    {
+            //        case 10:
+            //        case 9:
+            //            Console.WriteLine("Excellent");
+            //            excellentCount++;
+            //            break;
+
+            //        case 8:
+            //            Console.WriteLine("Very Good");
+            //            veryGoodCount++;
+            //            break;
+
+            //        case 7:
+            //        case 6:
+            //            Console.WriteLine("Good");
+            //            goodCount++;
+            //            break;
+
+            //        case 5:
+            //            Console.WriteLine("Pass");
+            //            passCount++;
+            //            break;
+
+            //        default:
+            //            Console.WriteLine("Fail");
+            //            failCount++;
+            //            break;
+            //    }
+            //}
+
+
+            //Console.WriteLine("\n--- Grade Report ---");
+
+            //Console.WriteLine("Excellent: " + excellentCount);
+            //Console.WriteLine("Very Good: " + veryGoodCount);
+            //Console.WriteLine("Good: " + goodCount);
+            //Console.WriteLine("Pass: " + passCount);
+            //Console.WriteLine("Fail: " + failCount);
+
+            //Console.WriteLine("Highest Score: " + highest);
+            //Console.WriteLine("Lowest Score: " + lowest);
+
+
+
+
+
+
+
+
+
+
+            //#endregion
+
+            //#region For
 
             //for (int x = 1; x < 5; x++)
             //{
@@ -266,28 +403,125 @@ namespace Project_solution01
             //}
 
 
+            //prime
 
 
-            Console.WriteLine("enter number");
-            int num = Convert.ToInt32(Console.ReadLine());
-            bool prime = true;
-            for (int i = 2; i < num; i++)
+
+            //Console.WriteLine("enter number");
+            //int num = Convert.ToInt32(Console.ReadLine());
+            //bool prime = true;
+            //for (int i = 2; i < num; i++)
+            //{
+
+            //    if (num % i == 0)
+            //    {
+            //        prime = false;
+            //        break;
+            //    }
+            //}
+            //if (prime)
+            //{
+            //    Console.WriteLine("prime num");
+            //}
+            //else { Console.WriteLine("not prime num"); }
+            //}
+
+            //#endregion
+
+
+            //#region while
+
+
+
+            //Console.WriteLine("Please Enter number");
+            //int num = Convert.ToInt32(Console.ReadLine());
+            //while (num != 5)
+            //{
+            //    Console.WriteLine("Incrocet Number");
+            //    num = Convert.ToInt32(Console.ReadLine());
+            //}
+
+
+            //    Console.WriteLine("Please Enter number");
+            //    int x = Convert.ToInt32(Console.ReadLine());
+            //    Random rnd = new Random();
+            //    int num = rnd.Next(1, 10);
+            //    int i;
+            //    while (x != num)
+            //    { 
+            //        Console.WriteLine("Incorrect Number");
+            //    x = Convert.ToInt32(Console.ReadLine());
+            //}
+            //#endregion
+
+
+            //#region Random
+
+
+
+            //Console.WriteLine("Please Enter number");
+            //int x = Convert.ToInt32(Console.ReadLine());
+
+            //Random rnd = new Random();
+
+            //int num = rnd.Next(1, 10);
+            //int i = 0;
+
+            //while (x != num)
+            //{
+            //    i++;
+
+            //    if (i < 3)
+            //    {
+
+            //        Console.WriteLine("Incorrect Number");
+            //        x = Convert.ToInt32(Console.ReadLine());
+            //    }
+            //    else
+            //    {
+            //        Console.WriteLine("you used 3 tries");
+            //        break;
+            //    }
+            //}
+            //  #endregion
+
+
+
+            #region reversed
+
+           
+
+            Console.WriteLine("Enter a word");
+            string word = Console.ReadLine();
+
+            string reversed = "";
+
+            
+            for (int i = word.Length - 1; i >= 0; i--)
             {
+                reversed += word[i];
+            }
 
-                if (num % i == 0)
-                {
-                    prime = false;
-                    break;
-                }
-            }
-            if (prime)
+            
+            if (word == reversed)
             {
-                Console.WriteLine("prime num");
+                Console.WriteLine("The word is Perfect");
             }
-            else { Console.WriteLine("not prime num"); }
+            else
+            {
+                Console.WriteLine("The word is NOT Perfect");
             }
+
+          #endregion
+
+
+
         }
+
     }
+    }
+
+
 
 
 
