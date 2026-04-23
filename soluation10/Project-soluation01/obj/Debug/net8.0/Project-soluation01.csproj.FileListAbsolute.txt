@@ -1,0 +1,15 @@
+C:\Users\mozam\Downloads\Swiq soluation\soluation10\Project-soluation01\bin\Debug\net8.0\Project-soluation01.exe
+C:\Users\mozam\Downloads\Swiq soluation\soluation10\Project-soluation01\bin\Debug\net8.0\Project-soluation01.deps.json
+C:\Users\mozam\Downloads\Swiq soluation\soluation10\Project-soluation01\bin\Debug\net8.0\Project-soluation01.runtimeconfig.json
+C:\Users\mozam\Downloads\Swiq soluation\soluation10\Project-soluation01\bin\Debug\net8.0\Project-soluation01.dll
+C:\Users\mozam\Downloads\Swiq soluation\soluation10\Project-soluation01\bin\Debug\net8.0\Project-soluation01.pdb
+C:\Users\mozam\Downloads\Swiq soluation\soluation10\Project-soluation01\obj\Debug\net8.0\Project-soluation01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mozam\Downloads\Swiq soluation\soluation10\Project-soluation01\obj\Debug\net8.0\Project-soluation01.AssemblyInfoInputs.cache
+C:\Users\mozam\Downloads\Swiq soluation\soluation10\Project-soluation01\obj\Debug\net8.0\Project-soluation01.AssemblyInfo.cs
+C:\Users\mozam\Downloads\Swiq soluation\soluation10\Project-soluation01\obj\Debug\net8.0\Project-soluation01.csproj.CoreCompileInputs.cache
+C:\Users\mozam\Downloads\Swiq soluation\soluation10\Project-soluation01\obj\Debug\net8.0\Project-soluation01.sourcelink.json
+C:\Users\mozam\Downloads\Swiq soluation\soluation10\Project-soluation01\obj\Debug\net8.0\Project-soluation01.dll
+C:\Users\mozam\Downloads\Swiq soluation\soluation10\Project-soluation01\obj\Debug\net8.0\refint\Project-soluation01.dll
+C:\Users\mozam\Downloads\Swiq soluation\soluation10\Project-soluation01\obj\Debug\net8.0\Project-soluation01.pdb
+C:\Users\mozam\Downloads\Swiq soluation\soluation10\Project-soluation01\obj\Debug\net8.0\Project-soluation01.genruntimeconfig.cache
+C:\Users\mozam\Downloads\Swiq soluation\soluation10\Project-soluation01\obj\Debug\net8.0\ref\Project-soluation01.dll
