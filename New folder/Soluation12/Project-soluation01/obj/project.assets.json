@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\Soluation12\\Project-soluation01\\Project-soluation01.csproj",
+      "projectUniqueName": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\New folder\\Soluation12\\Project-soluation01\\Project-soluation01.csproj",
       "projectName": "Project-soluation01",
-      "projectPath": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\Soluation12\\Project-soluation01\\Project-soluation01.csproj",
+      "projectPath": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\New folder\\Soluation12\\Project-soluation01\\Project-soluation01.csproj",
       "packagesPath": "C:\\Users\\mozam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\Soluation12\\Project-soluation01\\obj\\",
+      "outputPath": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\New folder\\Soluation12\\Project-soluation01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

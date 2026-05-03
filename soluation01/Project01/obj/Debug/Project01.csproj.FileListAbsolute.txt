@@ -1,0 +1,10 @@
+C:\Users\mozam\Downloads\Swiq soluation\soluation01\Project01\bin\Debug\Project01.exe.config
+C:\Users\mozam\Downloads\Swiq soluation\soluation01\Project01\bin\Debug\Project01.exe
+C:\Users\mozam\Downloads\Swiq soluation\soluation01\Project01\bin\Debug\Project01.pdb
+C:\Users\mozam\Downloads\Swiq soluation\soluation01\Project01\obj\Debug\Project01.csproj.AssemblyReference.cache
+C:\Users\mozam\Downloads\Swiq soluation\soluation01\Project01\obj\Debug\Project01.Form1.resources
+C:\Users\mozam\Downloads\Swiq soluation\soluation01\Project01\obj\Debug\Project01.Properties.Resources.resources
+C:\Users\mozam\Downloads\Swiq soluation\soluation01\Project01\obj\Debug\Project01.csproj.GenerateResource.cache
+C:\Users\mozam\Downloads\Swiq soluation\soluation01\Project01\obj\Debug\Project01.csproj.CoreCompileInputs.cache
+C:\Users\mozam\Downloads\Swiq soluation\soluation01\Project01\obj\Debug\Project01.exe
+C:\Users\mozam\Downloads\Swiq soluation\soluation01\Project01\obj\Debug\Project01.pdb
