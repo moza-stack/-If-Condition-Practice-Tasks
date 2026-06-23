@@ -1,0 +1,15 @@
+C:\Users\mozam\Downloads\Swiq soluation\week4\Hotel Management System\Hotel Management System\bin\Debug\net8.0\Hotel Management System.exe
+C:\Users\mozam\Downloads\Swiq soluation\week4\Hotel Management System\Hotel Management System\bin\Debug\net8.0\Hotel Management System.deps.json
+C:\Users\mozam\Downloads\Swiq soluation\week4\Hotel Management System\Hotel Management System\bin\Debug\net8.0\Hotel Management System.runtimeconfig.json
+C:\Users\mozam\Downloads\Swiq soluation\week4\Hotel Management System\Hotel Management System\bin\Debug\net8.0\Hotel Management System.dll
+C:\Users\mozam\Downloads\Swiq soluation\week4\Hotel Management System\Hotel Management System\bin\Debug\net8.0\Hotel Management System.pdb
+C:\Users\mozam\Downloads\Swiq soluation\week4\Hotel Management System\Hotel Management System\obj\Debug\net8.0\Hotel Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mozam\Downloads\Swiq soluation\week4\Hotel Management System\Hotel Management System\obj\Debug\net8.0\Hotel Management System.AssemblyInfoInputs.cache
+C:\Users\mozam\Downloads\Swiq soluation\week4\Hotel Management System\Hotel Management System\obj\Debug\net8.0\Hotel Management System.AssemblyInfo.cs
+C:\Users\mozam\Downloads\Swiq soluation\week4\Hotel Management System\Hotel Management System\obj\Debug\net8.0\Hotel Management System.csproj.CoreCompileInputs.cache
+C:\Users\mozam\Downloads\Swiq soluation\week4\Hotel Management System\Hotel Management System\obj\Debug\net8.0\Hotel Management System.sourcelink.json
+C:\Users\mozam\Downloads\Swiq soluation\week4\Hotel Management System\Hotel Management System\obj\Debug\net8.0\Hotel Management System.dll
+C:\Users\mozam\Downloads\Swiq soluation\week4\Hotel Management System\Hotel Management System\obj\Debug\net8.0\refint\Hotel Management System.dll
+C:\Users\mozam\Downloads\Swiq soluation\week4\Hotel Management System\Hotel Management System\obj\Debug\net8.0\Hotel Management System.pdb
+C:\Users\mozam\Downloads\Swiq soluation\week4\Hotel Management System\Hotel Management System\obj\Debug\net8.0\Hotel Management System.genruntimeconfig.cache
+C:\Users\mozam\Downloads\Swiq soluation\week4\Hotel Management System\Hotel Management System\obj\Debug\net8.0\ref\Hotel Management System.dll

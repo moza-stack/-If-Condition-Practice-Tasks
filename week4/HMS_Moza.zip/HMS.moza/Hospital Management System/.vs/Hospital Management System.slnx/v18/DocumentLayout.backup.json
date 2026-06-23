@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\week4\\HMS_Moza.zip\\HMS.moza\\Hospital Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2077AB5-2C71-354F-580A-B4E62A617E34}|Hospital Management System\\Hospital Management System.csproj|c:\\users\\mozam\\downloads\\swiq soluation\\week4\\hms_moza.zip\\hms.moza\\hospital management system\\hospital management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2077AB5-2C71-354F-580A-B4E62A617E34}|Hospital Management System\\Hospital Management System.csproj|solutionrelative:hospital management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2077AB5-2C71-354F-580A-B4E62A617E34}|Hospital Management System\\Hospital Management System.csproj|c:\\users\\mozam\\downloads\\swiq soluation\\week4\\hms_moza.zip\\hms.moza\\hospital management system\\hospital management system\\hospitalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2077AB5-2C71-354F-580A-B4E62A617E34}|Hospital Management System\\Hospital Management System.csproj|solutionrelative:hospital management system\\hospitalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2077AB5-2C71-354F-580A-B4E62A617E34}|Hospital Management System\\Hospital Management System.csproj|c:\\users\\mozam\\downloads\\swiq soluation\\week4\\hms_moza.zip\\hms.moza\\hospital management system\\hospital management system\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2077AB5-2C71-354F-580A-B4E62A617E34}|Hospital Management System\\Hospital Management System.csproj|solutionrelative:hospital management system\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2077AB5-2C71-354F-580A-B4E62A617E34}|Hospital Management System\\Hospital Management System.csproj|c:\\users\\mozam\\downloads\\swiq soluation\\week4\\hms_moza.zip\\hms.moza\\hospital management system\\hospital management system\\models\\medicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2077AB5-2C71-354F-580A-B4E62A617E34}|Hospital Management System\\Hospital Management System.csproj|solutionrelative:hospital management system\\models\\medicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2077AB5-2C71-354F-580A-B4E62A617E34}|Hospital Management System\\Hospital Management System.csproj|c:\\users\\mozam\\downloads\\swiq soluation\\week4\\hms_moza.zip\\hms.moza\\hospital management system\\hospital management system\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2077AB5-2C71-354F-580A-B4E62A617E34}|Hospital Management System\\Hospital Management System.csproj|solutionrelative:hospital management system\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2077AB5-2C71-354F-580A-B4E62A617E34}|Hospital Management System\\Hospital Management System.csproj|c:\\users\\mozam\\downloads\\swiq soluation\\week4\\hms_moza.zip\\hms.moza\\hospital management system\\hospital management system\\models\\availableslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2077AB5-2C71-354F-580A-B4E62A617E34}|Hospital Management System\\Hospital Management System.csproj|solutionrelative:hospital management system\\models\\availableslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2077AB5-2C71-354F-580A-B4E62A617E34}|Hospital Management System\\Hospital Management System.csproj|c:\\users\\mozam\\downloads\\swiq soluation\\week4\\hms_moza.zip\\hms.moza\\hospital management system\\hospital management system\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2077AB5-2C71-354F-580A-B4E62A617E34}|Hospital Management System\\Hospital Management System.csproj|solutionrelative:hospital management system\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AvailableSlot.cs",
+              "DocumentMoniker": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\week4\\HMS_Moza.zip\\HMS.moza\\Hospital Management System\\Hospital Management System\\Models\\AvailableSlot.cs",
+              "RelativeDocumentMoniker": "Hospital Management System\\Models\\AvailableSlot.cs",
+              "ToolTip": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\week4\\HMS_Moza.zip\\HMS.moza\\Hospital Management System\\Hospital Management System\\Models\\AvailableSlot.cs",
+              "RelativeToolTip": "Hospital Management System\\Models\\AvailableSlot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T05:38:03.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MedicalRecord.cs",
+              "DocumentMoniker": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\week4\\HMS_Moza.zip\\HMS.moza\\Hospital Management System\\Hospital Management System\\Models\\MedicalRecord.cs",
+              "RelativeDocumentMoniker": "Hospital Management System\\Models\\MedicalRecord.cs",
+              "ToolTip": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\week4\\HMS_Moza.zip\\HMS.moza\\Hospital Management System\\Hospital Management System\\Models\\MedicalRecord.cs",
+              "RelativeToolTip": "Hospital Management System\\Models\\MedicalRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T05:37:02.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\week4\\HMS_Moza.zip\\HMS.moza\\Hospital Management System\\Hospital Management System\\Program.cs",
+              "RelativeDocumentMoniker": "Hospital Management System\\Program.cs",
+              "ToolTip": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\week4\\HMS_Moza.zip\\HMS.moza\\Hospital Management System\\Hospital Management System\\Program.cs",
+              "RelativeToolTip": "Hospital Management System\\Program.cs",
+              "ViewState": "AgIAAL0BAAAAAAAAAAAYwHUBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T05:29:31.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HospitalContext.cs",
+              "DocumentMoniker": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\week4\\HMS_Moza.zip\\HMS.moza\\Hospital Management System\\Hospital Management System\\HospitalContext.cs",
+              "RelativeDocumentMoniker": "Hospital Management System\\HospitalContext.cs",
+              "ToolTip": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\week4\\HMS_Moza.zip\\HMS.moza\\Hospital Management System\\Hospital Management System\\HospitalContext.cs",
+              "RelativeToolTip": "Hospital Management System\\HospitalContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T05:42:34.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\week4\\HMS_Moza.zip\\HMS.moza\\Hospital Management System\\Hospital Management System\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "Hospital Management System\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\week4\\HMS_Moza.zip\\HMS.moza\\Hospital Management System\\Hospital Management System\\Models\\Appointment.cs",
+              "RelativeToolTip": "Hospital Management System\\Models\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T05:36:23.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\week4\\HMS_Moza.zip\\HMS.moza\\Hospital Management System\\Hospital Management System\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "Hospital Management System\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\week4\\HMS_Moza.zip\\HMS.moza\\Hospital Management System\\Hospital Management System\\Models\\Doctor.cs",
+              "RelativeToolTip": "Hospital Management System\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T05:35:54.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\week4\\HMS_Moza.zip\\HMS.moza\\Hospital Management System\\Hospital Management System\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "Hospital Management System\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\week4\\HMS_Moza.zip\\HMS.moza\\Hospital Management System\\Hospital Management System\\Models\\Patient.cs",
+              "RelativeToolTip": "Hospital Management System\\Models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T05:35:16.383Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

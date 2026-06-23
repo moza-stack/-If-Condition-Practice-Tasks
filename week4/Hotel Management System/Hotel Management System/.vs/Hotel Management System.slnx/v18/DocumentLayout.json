@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\week4\\Hotel Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|c:\\users\\mozam\\downloads\\swiq soluation\\week4\\hotel management system\\hotel management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|c:\\users\\mozam\\downloads\\swiq soluation\\week4\\hotel management system\\hotel management system\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|c:\\users\\mozam\\downloads\\swiq soluation\\week4\\hotel management system\\hotel management system\\services\\guestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\services\\guestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|c:\\users\\mozam\\downloads\\swiq soluation\\week4\\hotel management system\\hotel management system\\services\\staffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\services\\staffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|c:\\users\\mozam\\downloads\\swiq soluation\\week4\\hotel management system\\hotel management system\\models\\roommodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\models\\roommodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|c:\\users\\mozam\\downloads\\swiq soluation\\week4\\hotel management system\\hotel management system\\models\\guestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\models\\guestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|c:\\users\\mozam\\downloads\\swiq soluation\\week4\\hotel management system\\hotel management system\\models\\bookingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\models\\bookingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|c:\\users\\mozam\\downloads\\swiq soluation\\week4\\hotel management system\\hotel management system\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|c:\\users\\mozam\\downloads\\swiq soluation\\week4\\hotel management system\\hotel management system\\models\\reviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\models\\reviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|c:\\users\\mozam\\downloads\\swiq soluation\\week4\\hotel management system\\hotel management system\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|c:\\users\\mozam\\downloads\\swiq soluation\\week4\\hotel management system\\hotel management system\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|c:\\users\\mozam\\downloads\\swiq soluation\\week4\\hotel management system\\hotel management system\\hotelcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\hotelcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|c:\\users\\mozam\\downloads\\swiq soluation\\week4\\hotel management system\\hotel management system\\models\\staffmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0793E220-783F-ABA3-BFD9-02775B09D6BE}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\models\\staffmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 570,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReviewService.cs",
+              "DocumentMoniker": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\week4\\Hotel Management System\\Hotel Management System\\services\\ReviewService.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\services\\ReviewService.cs",
+              "ToolTip": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\week4\\Hotel Management System\\Hotel Management System\\services\\ReviewService.cs",
+              "RelativeToolTip": "Hotel Management System\\services\\ReviewService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T09:17:52.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\week4\\Hotel Management System\\Hotel Management System\\Program.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Program.cs",
+              "ToolTip": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\week4\\Hotel Management System\\Hotel Management System\\Program.cs",
+              "RelativeToolTip": "Hotel Management System\\Program.cs",
+              "ViewState": "AgIAALUBAAAAAAAAAADwv70BAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T07:37:15.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReviewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\week4\\Hotel Management System\\Hotel Management System\\Models\\ReviewModel.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Models\\ReviewModel.cs",
+              "ToolTip": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\week4\\Hotel Management System\\Hotel Management System\\Models\\ReviewModel.cs",
+              "RelativeToolTip": "Hotel Management System\\Models\\ReviewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T08:01:47.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookingModel.cs",
+              "DocumentMoniker": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\week4\\Hotel Management System\\Hotel Management System\\Models\\BookingModel.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Models\\BookingModel.cs",
+              "ToolTip": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\week4\\Hotel Management System\\Hotel Management System\\Models\\BookingModel.cs",
+              "RelativeToolTip": "Hotel Management System\\Models\\BookingModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T07:59:38.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GuestModel.cs",
+              "DocumentMoniker": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\week4\\Hotel Management System\\Hotel Management System\\Models\\GuestModel.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Models\\GuestModel.cs",
+              "ToolTip": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\week4\\Hotel Management System\\Hotel Management System\\Models\\GuestModel.cs",
+              "RelativeToolTip": "Hotel Management System\\Models\\GuestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T07:46:53.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoomModel.cs",
+              "DocumentMoniker": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\week4\\Hotel Management System\\Hotel Management System\\Models\\RoomModel.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Models\\RoomModel.cs",
+              "ToolTip": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\week4\\Hotel Management System\\Hotel Management System\\Models\\RoomModel.cs",
+              "RelativeToolTip": "Hotel Management System\\Models\\RoomModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T07:56:13.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StaffService.cs",
+              "DocumentMoniker": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\week4\\Hotel Management System\\Hotel Management System\\services\\StaffService.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\services\\StaffService.cs",
+              "ToolTip": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\week4\\Hotel Management System\\Hotel Management System\\services\\StaffService.cs",
+              "RelativeToolTip": "Hotel Management System\\services\\StaffService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T09:26:26.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoomService.cs",
+              "DocumentMoniker": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\week4\\Hotel Management System\\Hotel Management System\\services\\RoomService.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\services\\RoomService.cs",
+              "ToolTip": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\week4\\Hotel Management System\\Hotel Management System\\services\\RoomService.cs",
+              "RelativeToolTip": "Hotel Management System\\services\\RoomService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowBYAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T08:52:32.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GuestService.cs",
+              "DocumentMoniker": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\week4\\Hotel Management System\\Hotel Management System\\services\\GuestService.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\services\\GuestService.cs",
+              "ToolTip": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\week4\\Hotel Management System\\Hotel Management System\\services\\GuestService.cs",
+              "RelativeToolTip": "Hotel Management System\\services\\GuestService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T08:18:34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\week4\\Hotel Management System\\Hotel Management System\\services\\BookingService.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\services\\BookingService.cs",
+              "ToolTip": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\week4\\Hotel Management System\\Hotel Management System\\services\\BookingService.cs",
+              "RelativeToolTip": "Hotel Management System\\services\\BookingService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T09:05:10.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\week4\\Hotel Management System\\Hotel Management System\\services\\EmailService.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\week4\\Hotel Management System\\Hotel Management System\\services\\EmailService.cs",
+              "RelativeToolTip": "Hotel Management System\\services\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T08:06:13.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HotelContext.cs",
+              "DocumentMoniker": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\week4\\Hotel Management System\\Hotel Management System\\HotelContext.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\HotelContext.cs",
+              "ToolTip": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\week4\\Hotel Management System\\Hotel Management System\\HotelContext.cs",
+              "RelativeToolTip": "Hotel Management System\\HotelContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T09:36:03.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StaffModel.cs",
+              "DocumentMoniker": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\week4\\Hotel Management System\\Hotel Management System\\Models\\StaffModel.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Models\\StaffModel.cs",
+              "ToolTip": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\week4\\Hotel Management System\\Hotel Management System\\Models\\StaffModel.cs",
+              "RelativeToolTip": "Hotel Management System\\Models\\StaffModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T08:02:57.959Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
